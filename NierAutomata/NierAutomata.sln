@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NierAutomata", "NierAutomata.csproj", "{750B6DBB-3481-7FF8-FCB5-F2AA8F594204}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NierAutomata.Editor", "NierAutomata.Editor.csproj", "{4D3CB089-619F-D42E-DBC3-6E3A78D66E92}"
